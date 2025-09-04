@@ -47,7 +47,6 @@ To edit the websites contents edit the `index.html` file. It contains different 
 - Suggestions, improvements and comments are welcome, simply open an issue or contact me. You can find my contact information at [https://horwitz.ai](https://horwitz.ai)
 
 ## Acknowledgments
-Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 Created from [this template](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
 ## Website License
